@@ -1,0 +1,5 @@
+== apindectomy
+
+apindectomy is a project inspired by AJAX style applications where you can design a front end to be completely independant from the backend.  The frontend just needs a way to request JSON data, and then its responsible for doing all display work.
+
+apindectomy outputs only JSON and XML.  If you are looking for a project that outputs HTML or any other format, then this is not the project for you.
