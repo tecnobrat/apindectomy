@@ -1,5 +1,7 @@
 == apindectomy
 
+{<img src="https://badges.gitter.im/Join%20Chat.svg" alt="Join the chat at https://gitter.im/tecnobrat/apindectomy">}[https://gitter.im/tecnobrat/apindectomy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge]
+
 apindectomy is a project inspired by AJAX style applications where you can design a front end to be completely independant from the backend.  The frontend just needs a way to request JSON data, and then its responsible for doing all display work.
 
 apindectomy outputs only JSON and XML.  If you are looking for a project that outputs HTML or any other format, then this is not the project for you.
